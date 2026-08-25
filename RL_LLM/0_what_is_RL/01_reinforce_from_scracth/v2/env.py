@@ -11,7 +11,7 @@ class TinyEnv:
         if action == 1:
             reward = 1
         else :
-            reward =0
+            reward = -1
         
         done = True
         next_state = 0
