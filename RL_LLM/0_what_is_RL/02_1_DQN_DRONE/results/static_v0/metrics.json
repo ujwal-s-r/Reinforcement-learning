@@ -1,0 +1,22 @@
+[
+  {
+    "planner":"astar",
+    "success_rate":1.0,
+    "average_path_length":7.73,
+    "optimal_path_length":7.73,
+    "average_cost":7.73,
+    "planning_latency_ms":0.1524499909,
+    "path_efficiency":1.0,
+    "episodes":100
+  },
+  {
+    "planner":"dijkstra",
+    "success_rate":1.0,
+    "average_path_length":7.73,
+    "optimal_path_length":7.73,
+    "average_cost":7.73,
+    "planning_latency_ms":0.2691369993,
+    "path_efficiency":1.0,
+    "episodes":100
+  }
+]

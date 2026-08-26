@@ -1,0 +1,3 @@
+planner,success_rate,average_path_length,optimal_path_length,average_cost,planning_latency_ms,path_efficiency,episodes
+astar,1.0,7.73,7.73,7.73,0.1524499908555299,1.0,100
+dijkstra,1.0,7.73,7.73,7.73,0.26913699926808476,1.0,100

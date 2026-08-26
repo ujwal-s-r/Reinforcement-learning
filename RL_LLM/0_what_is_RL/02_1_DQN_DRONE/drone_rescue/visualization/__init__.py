@@ -1,4 +1,3 @@
-from .replay import render_grid
+from .replay import render_grid, render_path
 
-__all__ = ["render_grid"]
-
+__all__ = ["render_grid", "render_path"]
