@@ -32,4 +32,3 @@ REINFORCEMENT LEARNING FOR LLMS & AGENTS (Modules 1–5)
 │
 └── Capstone Artifact:
     └── Reproducible, Dockerized Multi-Turn Environment + GRPO Trained LLM Agent with Full Evaluation Suite
-
